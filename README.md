@@ -2,13 +2,9 @@
 
 **PeliSearch** es una aplicación web simple para buscar películas utilizando la API pública de [OMDb](https://www.omdbapi.com/). Permite ingresar el nombre de una película y ver una lista de resultados con su título, año de estreno y póster.
 
----
-
 ## 🖼️ Vista previa
 
 > ![preview](./screenshot.png)
-
----
 
 ## 🚀 Funcionalidades
 
@@ -16,8 +12,6 @@
 ✅ Mostrar título, año y póster  
 ✅ Diseño responsive y dark-friendly  
 ✅ Consumo de API externa (OMDb)
-
----
 
 ## 🛠️ Tecnologías utilizadas
 
