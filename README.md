@@ -6,6 +6,8 @@
 
 > ![preview](./screenshot.png)
 
+<!-- agregado para forzar refresh -->
+
 ## 🚀 Funcionalidades
 
 ✅ Buscar películas por nombre  
